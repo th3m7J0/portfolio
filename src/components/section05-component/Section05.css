@@ -1,0 +1,34 @@
+
+#section05 span{
+    color:#7f8c8d ;
+    font-weight:bold
+}
+
+#section05 .bg-img{
+    background-image: url(https://bridgr.co/wp-content/uploads/2018/10/Shortlist-BRIDGR-5.png);
+    min-height: 200px;
+    position: relative;
+    border-bottom: none;
+    background-position: center;
+    -webkit-background-size: cover;
+    z-index: 0;
+}
+
+#section05 .container{
+    padding: 5% 0%;
+}
+
+#section05 small{
+    font-size: 0.6rem;
+}
+
+#section05 img{
+    min-height: 200px;
+    max-width: 100%;
+}
+
+#section05 .btn-primary{
+    margin-left: 0px;
+}
+
+

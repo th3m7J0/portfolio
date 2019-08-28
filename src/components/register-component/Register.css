@@ -1,0 +1,62 @@
+
+#register .bb{
+    border-bottom: 1px solid #0e97ff !important;
+    border-top:1px solid #0e97ff !important;
+}
+
+#register .mt{
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+#register .form-inline{
+    height: auto;
+    width: auto;
+}
+
+
+#register .mr{
+    margin-right: 10%;
+}
+
+#register i{
+    border: 0px;
+    color: #b5b9bf;
+}
+
+#register .input-group-text{
+    border-radius: 10rem 0rem 0rem 10rem;
+    border-right: 1px white;
+}
+
+#register .btn-primary{
+    position: relative;
+    right: 20px;
+    font-weight: 600;
+    font-size: 11px;
+    padding: 10px 26px;
+    border-radius: 10rem!important;
+}
+
+#register .form-control:focus{
+    border-left: 1px white;
+    border-color: #cccccc;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: -webkit-focus-ring-color auto 0px;
+}
+
+#register input{
+    border-left: none;
+    border-right: none;
+}
+
+#register input:focus{
+    z-index: 0;
+}
+
+
+#register .form-inline{
+    flex-wrap: nowrap;
+}
+

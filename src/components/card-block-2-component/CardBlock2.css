@@ -1,0 +1,37 @@
+
+
+
+.b2 .card-text{
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: .5px;
+}
+
+.b2 .card:hover{
+    box-shadow: 1px 5px 20px #d0d0d0;
+    -webkit-transition:  box-shadow .5s ease-in;
+}
+
+
+.b2 .yellow{
+    color: #ffa801;
+}
+
+.b2 .fs-50{
+    font-size: 50px !important;
+}
+
+.b2 .blue{
+    color: #1e83ec
+
+}
+
+.b2 i{
+    border: none !important;
+}
+
+.b2 .card-body{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}

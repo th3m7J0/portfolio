@@ -1,0 +1,28 @@
+#section02{
+    margin-top: 6%;
+}
+
+#section02 small{
+    font-size: 11px;
+    text-transform: uppercase;
+
+}
+
+#section02 hr{
+    margin-top: 6%;
+    border-top: 1px solid #b5b9bf;
+    width: 60%;
+}
+
+
+#section02 .header {
+    display: inline-block;
+    font-size: 0.6875rem;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+    opacity: .6;
+}
+
+#section02 .px{
+    padding: 0% 20%;
+}

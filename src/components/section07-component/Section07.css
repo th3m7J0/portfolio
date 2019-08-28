@@ -1,0 +1,39 @@
+
+#section07 span{
+    color:#7f8c8d ;
+    font-weight:bold
+}
+
+#section07 .bg-img{
+    background-image: url(https://bridgr.co/wp-content/uploads/2018/10/111-SC-160650.jpg);
+    min-height: 500px;
+    min-width: 50%;
+    position: relative;
+    border-bottom: none;
+    background-position: center;
+    -webkit-background-size: cover;
+    z-index: 0;
+}
+
+#section07 .container{
+    padding: 5% 0%;
+}
+
+#section07 small{
+    font-size: 0.6rem;
+}
+
+#section07 img{
+    min-height: 200px;
+    max-width: 100%;
+}
+
+
+
+#section07 .btn-primary{
+    margin-left: 0px;
+}
+
+#section07 .ptlb{
+    padding: 7% 0% 7% 7%;
+}

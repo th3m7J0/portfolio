@@ -1,0 +1,16 @@
+#sign-up .container{
+    background: #1e83EC;
+    color: #fff;
+
+}
+
+#sign-up .fw-300{
+    font-weight: 300;
+}
+
+#sign-up .pad{
+    padding: 20px 0px 20px 0px;
+}
+#sign-up h4{
+    font-size: 18px !important;
+}
